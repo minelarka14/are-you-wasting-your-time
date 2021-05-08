@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/are-you-wasting-your-time/static/css/main.39731309.chunk.css",
+    "main.js": "/are-you-wasting-your-time/static/js/main.da358535.chunk.js",
+    "main.js.map": "/are-you-wasting-your-time/static/js/main.da358535.chunk.js.map",
+    "runtime-main.js": "/are-you-wasting-your-time/static/js/runtime-main.53562e4d.js",
+    "runtime-main.js.map": "/are-you-wasting-your-time/static/js/runtime-main.53562e4d.js.map",
+    "static/js/2.f6509c8b.chunk.js": "/are-you-wasting-your-time/static/js/2.f6509c8b.chunk.js",
+    "static/js/2.f6509c8b.chunk.js.map": "/are-you-wasting-your-time/static/js/2.f6509c8b.chunk.js.map",
+    "static/js/3.a9482b6b.chunk.js": "/are-you-wasting-your-time/static/js/3.a9482b6b.chunk.js",
+    "static/js/3.a9482b6b.chunk.js.map": "/are-you-wasting-your-time/static/js/3.a9482b6b.chunk.js.map",
+    "index.html": "/are-you-wasting-your-time/index.html",
+    "static/css/main.39731309.chunk.css.map": "/are-you-wasting-your-time/static/css/main.39731309.chunk.css.map",
+    "static/js/2.f6509c8b.chunk.js.LICENSE.txt": "/are-you-wasting-your-time/static/js/2.f6509c8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53562e4d.js",
+    "static/js/2.f6509c8b.chunk.js",
+    "static/css/main.39731309.chunk.css",
+    "static/js/main.da358535.chunk.js"
+  ]
+}
